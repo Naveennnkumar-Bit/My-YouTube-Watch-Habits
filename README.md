@@ -5,7 +5,7 @@ This project analyzes my YouTube viewing habits by examining data from my most-w
 
 ---  
 
-![YouTube Data](https://your-image-link.com)  
+![YouTube Data]([https://your-image-link.com](https://github.com/Naveennnkumar-Bit/My-YouTube-Watch-Habits/blob/main/YT.jpeg))  
 
 ---  
 

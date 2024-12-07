@@ -62,12 +62,4 @@ This project analyzes my YouTube viewing habits by examining data from my most-w
 
 ---  
 
-## **Contact** ✉️  
-Feel free to connect or provide feedback!  
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)  
-- **Email**: your.email@example.com  
 
----  
-
-### **Project Repository**  
-[YouTube Channel Analysis](https://github.com/your-profile/YouTube-Channel-Analysis)  

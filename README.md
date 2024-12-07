@@ -50,13 +50,10 @@ This bar chart shows the total number of views per channel.
 ## **3 Views per Channel using violin** 📊  
 This violin plot shows the distribution of views across different YouTube channels. It helps to visualize how views are spread across the channels in your dataset.
 
-![Views per Channel](charts/views_per_channel.png)
+![Views per Channel](https://github.com/Naveennnkumar-Bit/My-YouTube-Watch-Habits/blob/main/charts/VVPC.png)
 
 ## **Comments vs Views & Likes vs Views** 📊  
 These scatter plots compare the relationship between the number of comments/likes and the number of views for the videos in the dataset.
-
-## **Comments vs Views & Likes vs Views** 📊  
-These scatter plots compare the relationship between the number of comments/likes and the number of views for the videos in the dataset
 
 ## **Distribution of Video Durations** ⏱️  
 This histogram shows the distribution of video durations (in hours) for videos with a duration of less than 10,000 seconds. It gives an insight into how long most of the videos are in the dataset.

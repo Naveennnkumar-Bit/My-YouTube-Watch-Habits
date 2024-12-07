@@ -17,7 +17,7 @@ This project analyzes my YouTube viewing habits by examining data from my most-w
 
 ---  
 
-## 1.2. Aims and Objectives
+## Aims and Objectives
 
 Within this project, I would like to explore the following:
 

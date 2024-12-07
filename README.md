@@ -17,7 +17,7 @@ This project analyzes my YouTube viewing habits by examining data from my most-w
 
 ---  
 
-## Aims and Objectives
+## **Aims and Objectives**  
 
 Within this project, I would like to explore the following:
 
@@ -31,6 +31,37 @@ Within this project, I would like to explore the following:
 - Explore the trending topics using NLP techniques
     - Which popular topics are being covered in the videos (e.g. using wordcloud for video titles)?
 
+---
+
+## **Charts and Visualizations**  
+
+### **1. Subscribers per Channel**  
+This bar chart visualizes the number of subscribers across different YouTube channels.  
+
+![Subscribers per Channel](https://github.com/your-username/your-repository-path/subscribers_per_channel.png)
+
+---
+
+### **2. Views per Channel**  
+This bar chart shows the total number of views per channel.  
+
+![Views per Channel](https://github.com/your-username/your-repository-path/views_per_channel.png)
+
+---
+
+### **3. Most Common Tags in High-Performing Videos**  
+This word cloud visualizes the most frequent tags used in high-performing videos.  
+
+![Word Cloud: Popular Tags](https://github.com/your-username/your-repository-path/popular_tags_wordcloud.png)
+
+---
+
+### **4. Likes vs. Views Scatter Plot**  
+This scatter plot shows the relationship between the number of likes and views across different videos.  
+
+![Likes vs. Views Scatter Plot](https://github.com/your-username/your-repository-path/likes_vs_views.png)
+
+---  
 
 ## **Tools Used** 🛠️  
 - **Python**: For data processing and analysis.  
@@ -52,5 +83,3 @@ Within this project, I would like to explore the following:
 - Develop interactive dashboards for real-time trend analysis and visualization.  
 
 ---  
-
-

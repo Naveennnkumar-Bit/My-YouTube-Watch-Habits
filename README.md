@@ -47,6 +47,12 @@ This bar chart shows the total number of views per channel.
 
 ![Views per Channel](https://github.com/Naveennnkumar-Bit/My-YouTube-Watch-Habits/blob/main/charts/VPC.png)
 
+## **3 Views per Channel using violin** 📊  
+This violin plot shows the distribution of views across different YouTube channels. It helps to visualize how views are spread across the channels in your dataset.
+
+![Views per Channel](charts/views_per_channel.png)
+
+
 ---
 
 ## **Tools Used** 🛠️  

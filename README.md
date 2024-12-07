@@ -49,20 +49,6 @@ This bar chart shows the total number of views per channel.
 
 ---
 
-### **3. Most Common Tags in High-Performing Videos**  
-This word cloud visualizes the most frequent tags used in high-performing videos.  
-
-![Word Cloud: Popular Tags](https://github.com/your-username/your-repository-path/popular_tags_wordcloud.png)
-
----
-
-### **4. Likes vs. Views Scatter Plot**  
-This scatter plot shows the relationship between the number of likes and views across different videos.  
-
-![Likes vs. Views Scatter Plot](https://github.com/your-username/your-repository-path/likes_vs_views.png)
-
----  
-
 ## **Tools Used** 🛠️  
 - **Python**: For data processing and analysis.  
 - **YouTube Data API**: To retrieve metadata for videos and channels.  

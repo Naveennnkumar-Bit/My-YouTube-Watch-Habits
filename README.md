@@ -38,7 +38,7 @@ Within this project, I would like to explore the following:
 ### **1. Subscribers per Channel**  
 This bar chart visualizes the number of subscribers across different YouTube channels.  
 
-![Subscribers per Channel](https://github.com/your-username/your-repository-path/subscribers_per_channel.png)
+![Subscribers per Channel](https://github.com/Naveennnkumar-Bit/My-YouTube-Watch-Habits/blob/main/charts/SPC.png)
 
 ---
 

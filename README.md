@@ -45,7 +45,7 @@ This bar chart visualizes the number of subscribers across different YouTube cha
 ### **2. Views per Channel**  
 This bar chart shows the total number of views per channel.  
 
-![Views per Channel](https://github.com/your-username/your-repository-path/views_per_channel.png)
+![Views per Channel](https://github.com/Naveennnkumar-Bit/My-YouTube-Watch-Habits/blob/main/charts/VPC.png)
 
 ---
 

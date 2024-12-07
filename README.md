@@ -17,29 +17,20 @@ This project analyzes my YouTube viewing habits by examining data from my most-w
 
 ---  
 
-## **Challenges and Solutions**  
+## 1.2. Aims and Objectives
 
-### **1. Retrieving Video Data via YouTube API**  
-- **Challenge**: Learning to use the YouTube API and authenticate requests for channel and video data.  
-- **Solution**: Generated an API key and implemented Python scripts using the `googleapiclient` library to fetch video metadata efficiently.  
+Within this project, I would like to explore the following:
 
-### **2. Verifying Myths About Video Success**  
-- **Challenge**: Testing factors like likes, comments, video duration, and tags to assess their impact on video performance.  
-- **Solution**: Processed engagement metrics using **Pandas** and conducted statistical analyses to identify patterns and validate assumptions.  
+- Getting to know YouTube API and how to obtain video data.
+- Analyzing video data and verify different common "myths" about what makes a video do well on YouTube, for example:
+    - Does the number of likes and comments matter for a video to get more views?
+    - Does the video duration matter for views and interaction (likes/comments)?
+    - Does title length matter for views?
+    - How many tags do good performing videos have? What are the common tags among these videos?
+    - Across all the creators I take into consideration, how often do they upload new videos? On which days in the week?
+- Explore the trending topics using NLP techniques
+    - Which popular topics are being covered in the videos (e.g. using wordcloud for video titles)?
 
-### **3. Text Processing for Trending Topics**  
-- **Challenge**: Identifying popular topics across video titles.  
-- **Solution**: Used **NLP techniques** and created **word clouds** to visualize frequently used keywords in video titles.  
-
-### **4. Standardizing Video Metadata**  
-- **Challenge**: Inconsistent formats in video duration, title lengths, and tag usage.  
-- **Solution**: Cleaned and standardized fields using **regex** and Python string methods to ensure consistency.  
-
-### **5. Upload Frequency and Trends**  
-- **Challenge**: Analyzing upload days and frequencies for different creators.  
-- **Solution**: Aggregated upload dates by week and day using **time-series analysis**, identifying trends in posting schedules.  
-
----  
 
 ## **Tools Used** 🛠️  
 - **Python**: For data processing and analysis.  

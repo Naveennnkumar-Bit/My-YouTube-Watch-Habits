@@ -52,6 +52,41 @@ This violin plot shows the distribution of views across different YouTube channe
 
 ![Views per Channel](charts/views_per_channel.png)
 
+## **Comments vs Views & Likes vs Views** 📊  
+These scatter plots compare the relationship between the number of comments/likes and the number of views for the videos in the dataset.
+
+## **Comments vs Views & Likes vs Views** 📊  
+These scatter plots compare the relationship between the number of comments/likes and the number of views for the videos in the dataset
+
+## **Distribution of Video Durations** ⏱️  
+This histogram shows the distribution of video durations (in hours) for videos with a duration of less than 10,000 seconds. It gives an insight into how long most of the videos are in the dataset.
+
+![Distribution of Video Durations](charts/video_durations_histogram.png)
+
+## **Duration vs Comments & Duration vs Likes** 📊  
+These scatter plots compare the relationship between video duration and the number of comments/likes for the videos in the dataset.
+
+## **Title Length vs Views** 📊  
+This scatter plot shows how the length of a video title correlates with the number of views it receives.
+
+![Title Length vs Views](charts/title_length_vs_views.png)
+
+
+## **Word Cloud of Video Titles** 💬  
+This word cloud represents the most frequently used words in video titles across the dataset. The larger the word, the more frequently it appears.
+
+![Word Cloud](charts/wordcloud.png)
+
+
+## **Tags Count vs Views** 📊  
+This scatter plot shows how the number of tags associated with a video correlates with the number of views it receives.
+
+![Tags Count vs Views](charts/tags_count_vs_views.png)
+
+## **Videos Published by Day of the Week** 📅  
+This bar plot shows the distribution of videos published across different days of the week. It helps visualize the most common days on which videos are uploaded.
+
+![Videos Published by Day](charts/videos_published_by_day.png)
 
 ---
 

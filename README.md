@@ -63,11 +63,7 @@ This histogram shows the distribution of video durations (in hours) for videos w
 ## **Duration vs Comments & Duration vs Likes** 📊  
 These scatter plots compare the relationship between video duration and the number of comments/likes for the videos in the dataset.
 
-## **Title Length vs Views** 📊  
-This scatter plot shows how the length of a video title correlates with the number of views it receives.
-
-![Title Length vs Views](charts/title_length_vs_views.png)
-
+![Duration vs Comments & Duration vs Likes]
 
 ## **Word Cloud of Video Titles** 💬  
 This word cloud represents the most frequently used words in video titles across the dataset. The larger the word, the more frequently it appears.

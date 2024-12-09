@@ -79,7 +79,7 @@ This scatter plot shows how the number of tags associated with a video correlate
 ## **Videos Published by Day of the Week** 📅  
 This bar plot shows the distribution of videos published across different days of the week. It helps visualize the most common days on which videos are uploaded.
 
-![Videos Published by Day](charts/videos_published_by_day.png)
+![Videos Published by Day](https://github.com/Naveennnkumar-Bit/My-YouTube-Watch-Habits/blob/main/charts/DOW.png)
 
 ---
 

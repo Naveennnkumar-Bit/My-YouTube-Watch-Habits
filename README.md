@@ -80,6 +80,12 @@ This scatter plot visualizes the relationship between video view counts and the 
 
 ![View Count vs Comment and Like Count](https://github.com/Naveennnkumar-Bit/My-YouTube-Watch-Habits/blob/main/charts/CCLC.png)
 
+### **View Count and Like Count vs Comment Ratio**  
+This scatter plot illustrates the relationship between view counts, like counts, and the comment-to-view ratio for videos. It provides insights into how engagement through likes and comments correlates with video viewership.  
+
+![View Count and Like Count vs Comment Ratio](https://path/to/your/image.png)
+
+
 ## **Tags Count vs Views** 📊  
 This scatter plot shows how the number of tags associated with a video correlates with the number of views it receives.
 

@@ -68,7 +68,7 @@ These scatter plots compare the relationship between video duration and the numb
 ## **Word Cloud of Video Titles** 💬  
 This word cloud represents the most frequently used words in video titles across the dataset. The larger the word, the more frequently it appears.
 
-![Word Cloud](charts/wordcloud.png)
+![Word Cloud](https://github.com/Naveennnkumar-Bit/My-YouTube-Watch-Habits/blob/main/charts/WC.png)
 
 
 ## **Tags Count vs Views** 📊  

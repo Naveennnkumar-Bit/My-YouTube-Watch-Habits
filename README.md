@@ -63,7 +63,7 @@ This histogram shows the distribution of video durations (in hours) for videos w
 ## **Duration vs Comments & Duration vs Likes** 📊  
 These scatter plots compare the relationship between video duration and the number of comments/likes for the videos in the dataset.
 
-![Duration vs Comments & Duration vs Likes]
+![Duration vs Comments & Duration vs Likes](https://github.com/Naveennnkumar-Bit/My-YouTube-Watch-Habits/blob/main/charts/DSS.png)
 
 ## **Word Cloud of Video Titles** 💬  
 This word cloud represents the most frequently used words in video titles across the dataset. The larger the word, the more frequently it appears.

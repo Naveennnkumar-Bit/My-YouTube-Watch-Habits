@@ -58,7 +58,7 @@ These scatter plots compare the relationship between the number of comments/like
 ## **Distribution of Video Durations** ⏱️  
 This histogram shows the distribution of video durations (in hours) for videos with a duration of less than 10,000 seconds. It gives an insight into how long most of the videos are in the dataset.
 
-![Distribution of Video Durations](charts/video_durations_histogram.png)
+![Distribution of Video Durations](https://github.com/Naveennnkumar-Bit/My-YouTube-Watch-Habits/blob/main/charts/DISTOFVDHR.png)
 
 ## **Duration vs Comments & Duration vs Likes** 📊  
 These scatter plots compare the relationship between video duration and the number of comments/likes for the videos in the dataset.

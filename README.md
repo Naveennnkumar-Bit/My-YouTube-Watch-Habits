@@ -60,6 +60,11 @@ This histogram shows the distribution of video durations (in hours) for videos w
 
 ![Distribution of Video Durations](https://github.com/Naveennnkumar-Bit/My-YouTube-Watch-Habits/blob/main/charts/DISTOFVDHR.png)
 
+### **Title Length vs View Count**  
+This scatter plot shows the relationship between the length of video titles (in characters) and their corresponding view counts. The visualization provides insights into whether the title length impacts video performance.  
+
+![Title Length vs View Count](https://path/to/your/image.png)
+
 ## **Duration vs Comments & Duration vs Likes** 📊  
 These scatter plots compare the relationship between video duration and the number of comments/likes for the videos in the dataset.
 

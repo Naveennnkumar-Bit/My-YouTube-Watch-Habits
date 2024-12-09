@@ -74,7 +74,7 @@ This word cloud represents the most frequently used words in video titles across
 ## **Tags Count vs Views** 📊  
 This scatter plot shows how the number of tags associated with a video correlates with the number of views it receives.
 
-![Tags Count vs Views](charts/tags_count_vs_views.png)
+![Tags Count vs Views](https://github.com/Naveennnkumar-Bit/My-YouTube-Watch-Habits/blob/main/charts/NTNV.png)
 
 ## **Videos Published by Day of the Week** 📅  
 This bar plot shows the distribution of videos published across different days of the week. It helps visualize the most common days on which videos are uploaded.

@@ -75,6 +75,10 @@ This word cloud represents the most frequently used words in video titles across
 
 ![Word Cloud](https://github.com/Naveennnkumar-Bit/My-YouTube-Watch-Habits/blob/main/charts/WC.png)
 
+### **View Count vs Comment and Like Count**  
+This scatter plot visualizes the relationship between video view counts and the corresponding comment and like counts. It highlights how engagement metrics, such as comments and likes, correlate with viewership.  
+
+![View Count vs Comment and Like Count](https://path/to/your/image.png)
 
 ## **Tags Count vs Views** 📊  
 This scatter plot shows how the number of tags associated with a video correlates with the number of views it receives.
